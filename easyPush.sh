@@ -1,4 +1,4 @@
-git add .
+git add -A
 
 echo 'Enter the commit message:'
 read commitMessage
