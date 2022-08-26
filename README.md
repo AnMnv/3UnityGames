@@ -6,6 +6,6 @@
 
 All this games written with **Unity** and **C#**. You can try it on Your device as well, all You have to do is to download `.apk` file on your `Android` device and install it.
 
-Fell free to improve or upgrade something in this project if You want, **all** images assets and pictures were made by me and I `allow anyone to use them on any purpose`.
+Fell free to improve or upgrade something in this project if You want, **all** images assets and pictures were made by me and I `allow anyone use them on any purpose`.
 
 
